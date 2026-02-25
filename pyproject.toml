@@ -1,0 +1,13 @@
+[project]
+name = "embeddings-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.4.2",
+    "ollama>=0.6.1",
+    "python-dotenv>=1.2.1",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.2.3",
+]
